@@ -49,11 +49,7 @@ const nthTriNumber = function(n) {
 // 5. String Splitter
 
 const strSplitter = function(string) {
-    if (!string.length)
-        return []
-    if (string.charAt(0) !== typeof number)
-        return
-    return strSplitter(string.slice(1),)
+
 }
 
 
